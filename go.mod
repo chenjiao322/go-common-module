@@ -1,4 +1,4 @@
-module gitlab.geinc.cn/services/go-common-module
+module github.com/chenjiao322/go-common-module
 
 go 1.18
 
